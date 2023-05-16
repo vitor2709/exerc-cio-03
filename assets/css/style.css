@@ -1,0 +1,144 @@
+/**resset**/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/**geral**/
+.caixa01{
+    width: 150px;
+    height: 150px;
+    border: 1px solid rgb(30, 0, 199);
+    background-color: rgb(134, 197, 126);
+    margin: 50px 1px;
+    justify-content:
+    align-items;
+}
+.caixa02{
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(10, 10, 185);
+    background-color: rgb(20, 83, 138);
+    margin: 50px 1px;
+}
+.caixa03{
+    width: 150px;
+    height: 150px;
+    border: 1px solid rgb(30, 0, 199);
+    background-color: rgb(134, 197, 126);
+    margin: 50px 1px;
+    align-items: center;
+}
+.caixa04{
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(10, 10, 185);
+    background-color: rgb(20, 83, 138);
+    margin: 50px 1px;
+}
+.caixa05{
+    width: 150px;
+    height: 150px;
+    border: 1px solid rgb(30, 0, 199);
+    background-color: rgb(134, 197, 126);
+    margin: 50px 1px;
+}
+.caixa06{
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(10, 10, 185);
+    background-color: rgb(20, 83, 138);
+    margin: 50px 1px;
+}
+.caixa07{
+    width: 150px;
+    height: 150px;
+    border: 1px solid rgb(30, 0, 199);
+    background-color: rgb(134, 197, 126);
+    margin: 50px 1px;
+    justify-content: center;
+}
+.caixa08{
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(10, 10, 185);
+    background-color: rgb(20, 83, 138);
+    margin: 50px 1px;
+}
+.caixa09{
+    width: 150px;
+    height: 150px;
+    border: 1px solid rgb(30, 0, 199);
+    background-color: rgb(134, 197, 126);
+    margin: 50px 1px;
+    justify-content: center;
+}
+.caixa10{
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(10, 10, 185);
+    background-color: rgb(20, 83, 138);
+    margin: 50px 1px;
+}
+.caixa11{
+    width: 150px;
+    height: 150px;
+    border: 1px solid rgb(30, 0, 199);
+    background-color: rgb(134, 197, 126);
+    margin: 50px 1px;
+    justify-content: center;
+}
+.caixa12{
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(10, 10, 185);
+    background-color: rgb(20, 83, 138);
+    margin: 50px 1px;
+}
+.caixa13{
+    width: 150px;
+    height: 150px;
+    border: 1px solid rgb(30, 0, 199);
+    background-color: rgb(134, 197, 126);
+    margin: 50px 1px;
+    justify-content: flex-end;
+}
+.caixa14{
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(10, 10, 185);
+    background-color: rgb(20, 83, 138);
+    margin: 50px 1px;
+}
+.caixa15{
+    width: 150px;
+    height: 150px;
+    border: 1px solid rgb(30, 0, 199);
+    background-color: rgb(134, 197, 126);
+    margin: 50px 1px;
+    justify-content: flex-end;
+    align-items: center;
+}
+.caixa16{
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(10, 10, 185);
+    background-color: rgb(20, 83, 138);
+    margin: 50px 1px;
+}
+.caixa17{
+    width: 150px;
+    height: 150px;
+    border: 1px solid rgb(30, 0, 199);
+    background-color: rgb(134, 197, 126);
+    margin: 50px 1px;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.caixa18{
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(10, 10, 185);
+    background-color: rgb(20, 83, 138);
+    margin: 50px 1px;
+}
